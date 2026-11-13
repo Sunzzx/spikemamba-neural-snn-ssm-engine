@@ -1,0 +1,2 @@
+[console_scripts]
+spikemamba-demo = spikemamba.demo:main
